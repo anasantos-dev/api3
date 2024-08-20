@@ -1,0 +1,49 @@
+{
+    "Cardápio Regional Paraense": [
+        {
+            "id": 1,
+            "title": "Caldeirada Paraense" ,  
+            "description" : "A caldeirada paraense é um farto caldo com peixe cozido e temperos e iguarias como jambu, pimenta de cheiro, pimentão, tomate, cebola e alho. Pode ser acompanhado de um delicioso pirão com farinha branca de mandioca feito a partir do molho temperado da caldeirada e molho de pimenta.",
+            "status":true   
+        },
+
+        {
+            "id": 2,
+            "title": "Caruru",  
+            "description" : " É feito com quiabo, camarão seco, azeite de dendê, cebola, amendoim torrado, leite de coco, limão e sal. O caruru é frequentemente servido com arroz.", 
+            "status":true    
+        },
+        {
+            "id": 3, 
+            "title": "Tacacá",
+            "description" : " O tacacá é uma iguaria de origem indígena muito comum na região amazônica. É servido bem quente em uma cuia como se fosse uma sopa com diversos ingredientes, o tucupi a goma de tacacá , jambu e camarões cozidos.", 
+            "status":true          
+        },
+        {
+            "id": 4, 
+            "title": "Maniçoba",
+            "description" : " É um prato de origem indígena tendo como principal ingrediente a maniva . A preparação tradicional da maniçoba consiste inicialmente no cozimento da maniva com folhas de louro por várias horas seguidas, além de toucinho, bacon, calabresa e charque. É tradicionalmente servida com arroz branco.", 
+            "status":true
+        },
+        {
+            "id": 5, 
+            "title": " Caranguejo",
+            "description" : " É um prato de origem indígena tendo como principal ingrediente a maniva . A preparação tradicional da maniçoba consiste inicialmente no cozimento da maniva com folhas de louro por várias horas seguidas, além de toucinho, bacon, calabresa e charque. É tradicionalmente servida com arroz branco.", 
+            "status":true
+        },
+        {
+            "id": 6, 
+            "title": "Galinha Caipira",
+            "description" : " Diferente do frango de granja, a galinha caipira é criada por algumas famílias, em terrenos de casa. A caipira tem um sabor especial, sendo valorizada sua forma manual e caseira de preparo, geralmente acompanhada de macarrão no alho e óleo, farinha ou simplesmente arroz branco.", 
+            "status" :true
+        },
+        {
+            "id": 7, 
+            "title": "Pato no Tucupí",
+            "description":"Pato cozido no molho de tucupi com folhas de jambu é uma típica iguaria da culinária paraense, servido em ocasiões especiais e comemorativas. É geralmente servido com arroz branco, farinha e pimenta.",
+            "status" :true
+        }
+       
+    ]
+  }
+
